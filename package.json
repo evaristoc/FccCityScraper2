@@ -1,0 +1,17 @@
+{
+  "name": "fcc-campsite-scraper",
+  "version": "0.1.0",
+  "description": "to get data about city groups from Facebook",
+  "main": "server.js",
+  "author": "evaristoc & alicejiang1",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.5.5",
+    "express": "4.14.1",
+    "express-session": "^1.15.1",
+    "fbgraph": "^1.1.0",
+    "passport": "0.3.2",
+    "passport-facebook": "2.0.0",
+    "utf8": "^2.1.1"
+  }
+}

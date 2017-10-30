@@ -1,0 +1,131 @@
+[
+{ code: 200,
+  headers: 
+     [ [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object] ],
+    body:
+    '{"data":[
+        {
+        "name":"Tom Bayer",
+        "id":"732736710219590",
+        "administrator":false
+        }],
+        "paging":{
+          "cursors":{
+            "before":"QVFIUlBZAajgzWFZAraWVQeE1rcGpmS1BQZAnZA4NVNqZAjYtVUduWnFRQ1hCbFFvY1N6akpNVUlNZA0t5VGZA0NGdyWUdKWW1nc09ScDdqZAV9aWGhLdlFUUzVySVNB",
+            "after":"QVFIUlBZAajgzWFZAraWVQeE1rcGpmS1BQZAnZA4NVNqZAjYtVUduWnFRQ1hCbFFvY1N6akpNVUlNZA0t5VGZA0NGdyWUdKWW1nc09ScDdqZAV9aWGhLdlFUUzVySVNB"
+            },
+          "next":"https:\\/\\/graph.facebook.com\\/v2.8\\/321090721625587\\/members?access_token=EAAZAoNpL0CMIBAJhZAhaIOkWhfxZAw6bZAMR6p7iirDitkBYIo1e9jPzpujyIZBWN6Iq8BZA7E90oWC5NSZA50mOZAteoYtZC4mUwi9hmRFZCWEF7ZAfsFUVdlNpOgPcYrt2urwfpHWCLakx6WYMT5p5m88yMpzJP8WTGcZD&summary=true&limit=1&after=QVFIUlBZAajgzWFZAraWVQeE1rcGpmS1BQZAnZA4NVNqZAjYtVUduWnFRQ1hCbFFvY1N6akpNVUlNZA0t5VGZA0NGdyWUdKWW1nc09ScDdqZAV9aWGhLdlFUUzVySVNB"
+        },
+        "summary":{"total_count":6725}
+    }'
+},
+
+{ code: 200,
+    headers: 
+     [ [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object] ],
+    body:
+    '{"data":[
+      {
+        "description":"Coding + Cuppa with aspiring programmers.\\nCompletely free event\\nYou dont have to know programming\\nYou could start from where you are\\nNo pre-requisites\\nYou could be a student, a homemaker, a teacher, a musician, a doctor an accountant, a lawyer or a retiree as well\\n\\nCome join us with the journey learning and sharing knowledge with Free Code Camp Journey\\nEverybody is welcome!\\nLegends of Free Code Camp Canberra..",
+        "end_time":"2016-09-18T16:00:00+1000",
+        "name":"Coffee and Code 3",
+        "place":{"name":"Helenice Club, Woden, Canberra"},
+        "start_time":"2016-09-18T14:30:00+1000","id":"183666862065517"
+      },
+      {
+        "description":"Coding + Cuppa with like-minded people on a Sunday evening... what else could you ask for? :)\\n\\nCompletely free event, just come and join us if you have any doubts, are struggling or want to share your knowledge within your FCC journey. \\n\\nEverybody is welcome!",
+        "name":"Coffee and Code II",
+        "place":{
+          "name":"Hellenic Club of Canberra",
+          "location":{
+            "city":"Canberra",
+            "country":"Australia",
+            "latitude":-35.3425299,
+            "longitude":149.08689,
+            "state":"ACT",
+            "street":"Matilda Street, Woden",
+            "zip":"2606"},
+            "id":"107018368711"
+            },
+          "start_time":"2016-08-21T14:30:00+1000",
+          "id":"709874299151259"
+        },
+        {
+          "description":"Come and join us to grab a cuppa and have a great time coding! Everybody is welcome!","name":"Coffee and Code I",
+          "place":{
+            "name":"Hellenic Club of Canberra",
+            "location":{
+              "city":"Canberra",
+              "country":"Australia",
+              "latitude":-35.3425299,
+              "longitude":149.08689,
+              "state":"ACT",
+              "street":"Matilda Street, Woden",
+              "zip":"2606"
+              },
+            "id":"107018368711"
+            },
+            "start_time":"2016-07-24T14:30:00+1000",
+            "id":"552346061639512"
+          },
+          {
+            "end_time":"2016-06-26T16:00:00+1000",
+            "name":"Coffee And Code",
+            "place":{
+              "name":"Hellenic Club of Canberra",
+              "location":{
+                "city":"Canberra",
+                "country":"Australia",
+                "latitude":-35.3425299,
+                "longitude":149.08689,
+                "state":"ACT",
+                "street":"Matilda Street, Woden",
+                "zip":"2606"
+                },
+              "id":"107018368711"
+              },
+              "start_time":"2016-06-26T14:30:00+1000",
+              "id":"1041797935905361"
+            },
+            {
+              "description":"Due to the overwhelming interest, we are unable to accept more attendees for this session in order to keep it small, cozy and social.\\n\\nNext session, on the 17\\/4\\/16, is still available. \\nhttps:\\/\\/www.eventbrite.com.au\\/e\\/learning-to-code-come-join-our-coffee-and-code-session-tickets-23835355189 \\n\\nPlease join the group to be notified of future sessions. \\nhttps:\\/\\/www.facebook.com\\/groups\\/free.code.camp.canberra\\/",
+              "name":"Learning to code? Come join our Coffee-and-Code session",
+              "place":{
+                "name":"Reload Bar & Games",
+                "location":{
+                  "city":"Canberra",
+                  "country":"Australia",
+                  "latitude":-35.2790899,
+                  "longitude":149.12953,
+                  "state":"ACT",
+                  "street":"38 Northbourne Avenue",
+                  "zip":"2601"
+                  },
+                "id":"272543692940960"
+                },
+              "start_time":"2016-03-25T18:30:00+1100",
+              "id":"620173158136015"
+            }],
+          "paging":{
+            "cursors":{
+              "before":"MTgzNjY2ODYyMDY1NTE3",
+              "after":"NjIwMTczMTU4MTM2MDE1"
+              }
+            }
+      }'
+  }
+]
